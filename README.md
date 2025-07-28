@@ -18,7 +18,7 @@ Prompt Keeper is a lightweight, privacy-friendly prompt storage app built using 
 
 ## 🛠 Tech Stack
 
-* Frontend: [Alpine.js](https://alpinejs.dev/) + TailwindCSS
+* Frontend: [Alpine.js](https://alpinejs.dev/) + Bootstrap 5
 * Backend (optional): Express.js static server for easy hosting
 * Storage: localStorage
 
